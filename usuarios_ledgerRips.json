@@ -1,0 +1,72 @@
+{
+  "exportedAt": "2026-09-07T00:00:00.000Z",
+  "exportedBy": "root",
+  "users": [
+    {
+      "id": "root-diego",
+      "name": "Diego Armando Carreño Serrano",
+      "username": "root",
+      "role": "root",
+      "permissions": [
+        "unificar",
+        "consecutivo",
+        "json-excel",
+        "txt-excel",
+        "excel2275",
+        "generador",
+        "res948",
+        "soportes",
+        "rips-validador",
+        "admin-entidad"
+      ],
+      "salt": "ac79e97f1d74409a6de9e33ae2f60db8",
+      "hash": "f4ad941ba0fdf6ca40e7df449a9ff4f2fbb38959b55cf50de55f4c2b0d63f649",
+      "active": true,
+      "createdAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "user-marolis",
+      "name": "Marolis Fontalvo Viloria",
+      "username": "Mfontalvo",
+      "role": "user",
+      "permissions": [
+        "unificar",
+        "consecutivo",
+        "json-excel",
+        "txt-excel",
+        "excel2275",
+        "generador",
+        "res948",
+        "soportes",
+        "rips-validador",
+        "admin-entidad"
+      ],
+      "salt": "909b41d40e05e7bc5b8e41c3bd1f57c1",
+      "hash": "d8938cdfbcba19724aea3bb7d06ced2414807c481c7578db51c235ff211c47a0",
+      "active": true,
+      "createdAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "user-ruth",
+      "name": "Ruth Cecilia Anaya Amador",
+      "username": "RCecilia",
+      "role": "user",
+      "permissions": [
+        "unificar",
+        "consecutivo",
+        "json-excel",
+        "txt-excel",
+        "excel2275",
+        "generador",
+        "res948",
+        "soportes",
+        "rips-validador",
+        "admin-entidad"
+      ],
+      "salt": "f1062868292a67da600582a5e836ebdf",
+      "hash": "821699d7e3872050b38fca2b2dcdd2cf21c70c3b63970f385b24d90e78b86d61",
+      "active": true,
+      "createdAt": "2026-09-07T00:00:00.000Z"
+    }
+  ]
+}
